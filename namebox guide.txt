@@ -1,0 +1,6 @@
+Red			Vanguard	
+Green			Witnesses/Media			
+Blue			Phalanx
+Purple			Police/Detectives
+Brown			Citizens
+Black			Judge/???

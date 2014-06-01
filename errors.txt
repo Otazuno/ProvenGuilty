@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 369: end of line expected.
+    show abacus_profile with slideright at Position(xpos = 0.95, xanchor = 0.95, ypos = 0.08, yanchor = 0.08)
+                                        ^
+
+Ren'Py Version: Ren'Py 6.15.7.374
